@@ -1,0 +1,30 @@
+  Definiciones:
+
+
+  * Variables
+
+En un lenguaje de programación, las 'variables' se utilizan para almacenar valores de datos y hacer referencia a un valor. Las variables constan de un nombre y pertenece a un tipo (númerico, cadena de caracteres, etc).
+
+
+  * Strings
+
+Son cadenas de caracteres que se escriben mediante el uso de comillas representan el valor de un dato textual, por ejemplo: "hola". 
+
+
+  * Funciones (argumentos, `return`)
+
+Las 'funciones' se componen de una secuencia de declaraciones que conforman el cuerpo de una función.
+Se puede dar valores a una función, y la función puede devolver un valor.
+Para que resulte la devolución de un valor específico, una función debe tener una secuencia 'return'. Es la devolución que hace el sistema a la invocación de su ejecución.
+Los parámetros en la llamada a una función son los 'argumentos' en la función.
+Los argumentos de la función son los valores que recibe la función cuando se lo invoca.
+
+
+  * Declaraciones `if`
+
+Se utiliza 'if' para comprobar si la condición es verdadera, y se puede utilizar para evaluar múltiples condiciones.
+
+
+  * Valores booleanos (`true`, `false`)
+
+Las variables booleanas normalmente se emplean para evaluar si se cumplen condiciones mediante instrucciones. Estos valores se utilizan para almacenar información del tipo sí / no, cumple / no cumple, verdadero / falso, existe / no existe, es decir, información que únicamente puede tener dos estados.
