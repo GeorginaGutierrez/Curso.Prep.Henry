@@ -1,0 +1,20 @@
+Definiciones de conceptos:
+
+* 'for'
+
+El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces que nosotros dispongamos.
+
+
+* '&&': 
+
+Es un operador lógico, significa "Y (and)", esto evalua dos expresiones y devolverá true (verdadero), si ambas expresiones lo son. Si una o ambas expresiones es false (falso) este operador devolvera false.
+
+
+* '||':
+
+Este operador significa "Ó (or)" devolverá true (verdadera) si una o ambas expresiones lo son. Sólo en el caso de haber dos expresiones false (falso), este operador devolverá false.
+
+
+* !:
+
+El operador "not (!)" significa que estamos preguntando lo contrario a la expresión, por lo cual devolverá el valor booleano opuesto de lo que se le pasa.
