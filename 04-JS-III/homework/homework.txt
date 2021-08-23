@@ -1,0 +1,6 @@
+Definición:
+
+* Arrays
+
+Un array es una lista ordenada de valores a los que nos podemos referir con un nombre y un índice.
+El objeto Array tiene métodos para operar arreglos de varias formas, tal como unirlos, invertirlos y ordenarlos.
